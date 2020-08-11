@@ -1,0 +1,15 @@
+{
+  "quizDetails": {
+    "title": "Title of the quiz",
+    "shortDesc": "short Description of the quiz",
+    "longDesc": "Long Description of the quiz",
+    "views": 100,
+    "thumbUrl": "https://www.talenttalks.net/wp-content/uploads/2018/06/History.jpg",
+    "questionsUrl": "https://www.google.com"
+  },
+  "authorDetails": {
+    "authorName": "Sample Author Name",
+    "authorProfileUrl": "https://png.pngtree.com/element_our/png/20181206/users-vector-icon-png_260862.jpg",
+    "authorUrl": "https://www.google.com"
+  }
+}
